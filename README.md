@@ -17,4 +17,4 @@ and SQL for collecting data by contact us feature.
 
 *************Website link**********
  
-https://github.com/shubhamcr10/Payment-Gateway-Integration
+https://paymentgatewayintegration98.000webhostapp.com/index.php
