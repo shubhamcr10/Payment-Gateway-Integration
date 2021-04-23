@@ -2,9 +2,9 @@
 ********Spark Foundation Iternship*******april**************2021
 By Shubham Singh
 
-In this repository it contains the project file related to web development. I have create a simple website and integrated a donate button. This project is related to showcase the idea about payment gateway
+In this repository it contains the project file related to web development. I have created a simple website and integrated a donate button. This project is related to showcase the idea about payment gateway
 
-I've done internship project in which there is a task to made a website having payment gateway integration
+A project in which there is a task to make a website having payment gateway integrated
 
 index.php, you can run this file with xampp or any other server 
 
